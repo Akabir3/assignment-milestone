@@ -8,7 +8,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
 // Serve static files (CSS, JS, images) from the root directory (no "public" folder)
-app.use(express.static(__dirname));  // Serve files directly from the root
+app.use(express.static(__dirname));  // Serve files directly from the root directory
 
 // Handle form submission via POST request
 app.post('/submit-form', (req, res) => {
@@ -26,6 +26,11 @@ app.post('/submit-form', (req, res) => {
 
     // Respond back to the client
     res.send('Thank you for your message!');
+});
+
+// Serve the HTML page when visiting the root
+app.get('/', (req, res) => {
+    res.sendFile(__dirname + '/index.html');
 });
 
 // Set the server to listen on port 3000
