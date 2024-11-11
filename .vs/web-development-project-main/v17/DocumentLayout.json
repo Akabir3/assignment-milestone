@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\akboo\\source\\web-development-project-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akboo\\source\\web-development-project-main\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akboo\\source\\web-development-project-main\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akboo\\source\\web-development-project-main\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akboo\\source\\web-development-project-main\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akboo\\source\\web-development-project-main\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akboo\\source\\web-development-project-main\\public\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akboo\\source\\web-development-project-main\\gt3audio.mp3||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gt3audio.mp3||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akboo\\source\\web-development-project-main\\m4audio.mp3||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:m4audio.mp3||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akboo\\source\\web-development-project-main\\c63audio.mp3||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:c63audio.mp3||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akboo\\source\\web-development-project-main\\public\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -13,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akboo\\source\\web-development-project-main\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akboo\\source\\web-development-project-main\\public\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akboo\\source\\web-development-project-main\\public\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,72 +58,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\akboo\\source\\web-development-project-main\\public\\index.html",
-              "RelativeDocumentMoniker": "public\\index.html",
-              "ToolTip": "C:\\Users\\akboo\\source\\web-development-project-main\\public\\index.html",
-              "RelativeToolTip": "public\\index.html",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAFcAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-11T02:26:32.279Z",
+              "DocumentIndex": 0,
+              "Title": "scripts.js",
+              "DocumentMoniker": "C:\\Users\\akboo\\source\\web-development-project-main\\scripts.js",
+              "RelativeDocumentMoniker": "scripts.js",
+              "ToolTip": "C:\\Users\\akboo\\source\\web-development-project-main\\scripts.js",
+              "RelativeToolTip": "scripts.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-11T02:56:33.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\Users\\akboo\\source\\web-development-project-main\\contact.html",
+              "RelativeDocumentMoniker": "contact.html",
+              "ToolTip": "C:\\Users\\akboo\\source\\web-development-project-main\\contact.html",
+              "RelativeToolTip": "contact.html",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwC0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-11T02:53:17.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "about.html",
+              "DocumentMoniker": "C:\\Users\\akboo\\source\\web-development-project-main\\about.html",
+              "RelativeDocumentMoniker": "about.html",
+              "ToolTip": "C:\\Users\\akboo\\source\\web-development-project-main\\about.html",
+              "RelativeToolTip": "about.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-11T02:53:07.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\akboo\\source\\web-development-project-main\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\akboo\\source\\web-development-project-main\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAACMAAAAAAAAAAAAmwEkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-11T02:52:46.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "gt3audio.mp3",
+              "DocumentMoniker": "C:\\Users\\akboo\\source\\web-development-project-main\\gt3audio.mp3",
+              "RelativeDocumentMoniker": "gt3audio.mp3",
+              "ToolTip": "C:\\Users\\akboo\\source\\web-development-project-main\\gt3audio.mp3",
+              "RelativeToolTip": "gt3audio.mp3",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH0SURBVDhPlVM/aBNhFP/lkjY0oZXYDgnFlIJDpRjtYoaazXTp5mChi4uLk6XSIUMFQcgm3aqLaDfpWChkClnjIGKNyyWFSFtI0XicF3qX\u002B9Pvvfvy2dJW8Pfu3fe\u002B937v973v4CKQqFargQyvRBAEXj6fX08mk\u002BVBglcCCbj9fuC6/cDzXHbf99gpR2u9Xg8qlYrXPvjxVLZBkyuLkfEjhQerpoU0x3FQKBS073uNjWaz\u002BZhrXBHwff\u002BfIgTLslCr1Yg7rOv6e8qdm0C8QhEZt7s2nn1sodXpMadYfIA7uRxuzczwnnBhAhYhE2E0GsGm7uCF/lc4nUkjO5VlPuHiFc74SEzDcm4c2/u/8OHbsWSehxLwPE80nbmKsI7Vx7Bp4NW0j\u002BeVA5GXdcknXDkBiWSvxfDJN7F6bxKpkySLUp7ql14hLIan7HVsvGnYGB2K43PbwmGvx3k6/1IB13VDgvClrSMs7HSx9sWG8yeOI9PBy9sJdTqpEJ\u002BgBAbNRNrVRvFzRJS6J/i6byA9FsPKw2nFYSOugBIwDEONd9duA7YhNr8xP5tALpOQzUzgmPgEJWCaZlgU9npxCu/y17FxP4W3CzdU08Bpz3wBJdCTH4nGmJuI49HNMTyZTSGT0FiUmkIBCgPmE9TvXCqVROn/UC6XI6c1H4u2X8\u002BvtQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-11T02:52:34.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "m4audio.mp3",
+              "DocumentMoniker": "C:\\Users\\akboo\\source\\web-development-project-main\\m4audio.mp3",
+              "RelativeDocumentMoniker": "m4audio.mp3",
+              "ToolTip": "C:\\Users\\akboo\\source\\web-development-project-main\\m4audio.mp3",
+              "RelativeToolTip": "m4audio.mp3",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH0SURBVDhPlVM/aBNhFP/lkjY0oZXYDgnFlIJDpRjtYoaazXTp5mChi4uLk6XSIUMFQcgm3aqLaDfpWChkClnjIGKNyyWFSFtI0XicF3qX\u002B9Pvvfvy2dJW8Pfu3fe\u002B937v973v4CKQqFargQyvRBAEXj6fX08mk\u002BVBglcCCbj9fuC6/cDzXHbf99gpR2u9Xg8qlYrXPvjxVLZBkyuLkfEjhQerpoU0x3FQKBS073uNjWaz\u002BZhrXBHwff\u002BfIgTLslCr1Yg7rOv6e8qdm0C8QhEZt7s2nn1sodXpMadYfIA7uRxuzczwnnBhAhYhE2E0GsGm7uCF/lc4nUkjO5VlPuHiFc74SEzDcm4c2/u/8OHbsWSehxLwPE80nbmKsI7Vx7Bp4NW0j\u002BeVA5GXdcknXDkBiWSvxfDJN7F6bxKpkySLUp7ql14hLIan7HVsvGnYGB2K43PbwmGvx3k6/1IB13VDgvClrSMs7HSx9sWG8yeOI9PBy9sJdTqpEJ\u002BgBAbNRNrVRvFzRJS6J/i6byA9FsPKw2nFYSOugBIwDEONd9duA7YhNr8xP5tALpOQzUzgmPgEJWCaZlgU9npxCu/y17FxP4W3CzdU08Bpz3wBJdCTH4nGmJuI49HNMTyZTSGT0FiUmkIBCgPmE9TvXCqVROn/UC6XI6c1H4u2X8\u002BvtQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-11T02:52:34.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "c63audio.mp3",
+              "DocumentMoniker": "C:\\Users\\akboo\\source\\web-development-project-main\\c63audio.mp3",
+              "RelativeDocumentMoniker": "c63audio.mp3",
+              "ToolTip": "C:\\Users\\akboo\\source\\web-development-project-main\\c63audio.mp3",
+              "RelativeToolTip": "c63audio.mp3",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH0SURBVDhPlVM/aBNhFP/lkjY0oZXYDgnFlIJDpRjtYoaazXTp5mChi4uLk6XSIUMFQcgm3aqLaDfpWChkClnjIGKNyyWFSFtI0XicF3qX\u002B9Pvvfvy2dJW8Pfu3fe\u002B937v973v4CKQqFargQyvRBAEXj6fX08mk\u002BVBglcCCbj9fuC6/cDzXHbf99gpR2u9Xg8qlYrXPvjxVLZBkyuLkfEjhQerpoU0x3FQKBS073uNjWaz\u002BZhrXBHwff\u002BfIgTLslCr1Yg7rOv6e8qdm0C8QhEZt7s2nn1sodXpMadYfIA7uRxuzczwnnBhAhYhE2E0GsGm7uCF/lc4nUkjO5VlPuHiFc74SEzDcm4c2/u/8OHbsWSehxLwPE80nbmKsI7Vx7Bp4NW0j\u002BeVA5GXdcknXDkBiWSvxfDJN7F6bxKpkySLUp7ql14hLIan7HVsvGnYGB2K43PbwmGvx3k6/1IB13VDgvClrSMs7HSx9sWG8yeOI9PBy9sJdTqpEJ\u002BgBAbNRNrVRvFzRJS6J/i6byA9FsPKw2nFYSOugBIwDEONd9duA7YhNr8xP5tALpOQzUzgmPgEJWCaZlgU9npxCu/y17FxP4W3CzdU08Bpz3wBJdCTH4nGmJuI49HNMTyZTSGT0FiUmkIBCgPmE9TvXCqVROn/UC6XI6c1H4u2X8\u002BvtQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-11T02:52:33.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\akboo\\source\\web-development-project-main\\public\\index.html",
+              "RelativeDocumentMoniker": "public\\index.html",
+              "ToolTip": "C:\\Users\\akboo\\source\\web-development-project-main\\public\\index.html",
+              "RelativeToolTip": "public\\index.html",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-11T02:26:32.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "about.html",
               "DocumentMoniker": "C:\\Users\\akboo\\source\\web-development-project-main\\public\\about.html",
               "RelativeDocumentMoniker": "public\\about.html",
               "ToolTip": "C:\\Users\\akboo\\source\\web-development-project-main\\public\\about.html",
               "RelativeToolTip": "public\\about.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-11T02:20:36.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T02:20:36.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "contact.html",
               "DocumentMoniker": "C:\\Users\\akboo\\source\\web-development-project-main\\public\\contact.html",
               "RelativeDocumentMoniker": "public\\contact.html",
               "ToolTip": "C:\\Users\\akboo\\source\\web-development-project-main\\public\\contact.html",
               "RelativeToolTip": "public\\contact.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-11T02:18:43.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T02:18:43.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "server.js",
               "DocumentMoniker": "C:\\Users\\akboo\\source\\web-development-project-main\\server.js",
               "RelativeDocumentMoniker": "server.js",
               "ToolTip": "C:\\Users\\akboo\\source\\web-development-project-main\\server.js",
               "RelativeToolTip": "server.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-11-11T02:18:32.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "scripts.js",
               "DocumentMoniker": "C:\\Users\\akboo\\source\\web-development-project-main\\public\\scripts.js",
               "RelativeDocumentMoniker": "public\\scripts.js",
               "ToolTip": "C:\\Users\\akboo\\source\\web-development-project-main\\public\\scripts.js",
               "RelativeToolTip": "public\\scripts.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-11T02:16:22.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T02:16:22.403Z"
             }
           ]
         }

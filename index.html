@@ -23,42 +23,44 @@
     <main>
         <h1>My Favorite Cars</h1>
         <p>This is a collection of my favorite cars in recent years in no particular order.</p>
-        <img src="images/amgbadge.png" width="200" height="200" alt="AMG Badge">
+        <img src="amgbadge.png" width="200" height="200" alt="AMG Badge">
         <hr>
 
         <div class="car-container">
             <h2>BMW M4 Competition</h2>
             <p>The BMW M4 Competition is a 2-door sports coupe that starts at an MSRP of <b>$83,000</b>. It delivers 523 horsepower from a 3-liter inline 6 engine.</p>
-            <p>Purchase <a href="https://www.bmwusa.com/vehicles/8-series/overview.html?&cid=GOOGLE_700000002949637_USBMW-24-017_ENG_FY24_FY_T1_GKL_NA_8S_GKl+Pmax_CV_GOOG_PM-NA_0_0_&tier=tier1&maco=national&ch=paid_search&veh=NA&gclsrc=aw.ds&gad_source=1&gclid=Cj0KCQjw6oi4BhD1ARIsAL6pox1wjfLMYLE0OAg6DkjjwDMqDpbGqEtYmyxivxXhJsetSXBxFxzvyeoaAqu0EALw_wcB&gclsrc=aw.ds">HERE</a></p>
-            <img src="images/m4comp.png" width="500" height="500" class="car-image" alt="BMW M4 Competition">
+            <p>Purchase <a href="https://www.bmwusa.com/vehicles/8-series/overview.html">HERE</a></p>
+            <img src="m4comp.png" width="500" height="500" class="car-image" alt="BMW M4 Competition">
             <p>Click to hear the exhaust!</p>
-            <img src="images/speakernew.png" width="100" height="100" alt="Play Sound" class="speaker-icon" onclick="playAudio('carAudio1')" />
+            <img src="speakernew.png" width="100" height="100" alt="Play Sound" class="speaker-icon" onclick="playAudio('carAudio1')" />
             <audio id="carAudio1">
-                <source src="audio/m4audio.mp3" type="audio/mpeg">
+                <source src="m4audio.mp3" type="audio/mpeg">
             </audio>
         </div>
         <hr>
+
         <div class="car-container">
             <h3>Mercedes-Benz C63 AMG Coupe</h3>
             <p>The C63 AMG is a 2-door sports coupe that started at an original MSRP of about <b>$75,000</b>, but now a used one can be found for about <b>$45,000</b>. It delivers 469 horsepower from a handbuilt 4-liter V8 engine.</p>
             <p>Purchase a NEW C63 <a href="https://www.mbusa.com/en/future-vehicles/2024-amg-c63se">HERE</a></p>
-            <img src="images/c63.png" width="500" height="500" class="car-image" alt="C63AMG">
+            <img src="c63.png" width="500" height="500" class="car-image" alt="C63AMG">
             <p>Click to hear the exhaust!</p>
-            <img src="images/speakernew.png" width="100" height="100" alt="Play Sound" class="speaker-icon" onclick="playAudio('carAudio2')" />
+            <img src="speakernew.png" width="100" height="100" alt="Play Sound" class="speaker-icon" onclick="playAudio('carAudio2')" />
             <audio id="carAudio2">
-                <source src="audio/c63audio.mp3" type="audio/mpeg">
+                <source src="c63audio.mp3" type="audio/mpeg">
             </audio>
         </div>
         <hr>
+
         <div class="car-container">
             <h4>Porsche 911 GT3</h4>
             <p>The Porsche 911 GT3 is a 2-door sports coupe that starts at an MSRP of <b>$183,000</b>. It delivers 502 horsepower from a 4-liter inline 6 engine.</p>
             <p>Purchase <a href="https://www.porsche.com/international/models/911/911-gt3-models/">HERE</a></p>
-            <img src="images/gt3.avif" width="500" height="500" class="car-image" alt="911GT3">
+            <img src="gt3.avif" width="500" height="500" class="car-image" alt="911GT3">
             <p>Click to hear the exhaust!</p>
-            <img src="images/speakernew.png" width="100" height="100" alt="Play Sound" class="speaker-icon" onclick="playAudio('carAudio3')" />
+            <img src="speakernew.png" width="100" height="100" alt="Play Sound" class="speaker-icon" onclick="playAudio('carAudio3')" />
             <audio id="carAudio3">
-                <source src="audio/gt3audio.mp3" type="audio/mpeg">
+                <source src="gt3audio.mp3" type="audio/mpeg">
             </audio>
         </div>
     </main>
@@ -68,21 +70,5 @@
     </footer>
 
     <script src="script.js"></script>
-    <script>
-        function playAudio(audioId) {
-            // Stop any playing audio first
-            const allAudio = document.querySelectorAll('audio');
-            allAudio.forEach(audio => {
-                audio.pause();
-                audio.currentTime = 0;
-            });
-
-            // Play the selected audio
-            const audioElement = document.getElementById(audioId);
-            if (audioElement) {
-                audioElement.play();
-            }
-        }
-    </script>
 </body>
 </html>
